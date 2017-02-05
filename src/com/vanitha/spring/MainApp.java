@@ -1,4 +1,4 @@
-package com.marlabs.spring;
+package com.vanitha.spring;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

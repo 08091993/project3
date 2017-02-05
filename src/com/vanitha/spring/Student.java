@@ -1,4 +1,4 @@
-package com.marlabs.spring;
+package com.vanitha.spring;
 
 public class Student {
 	private Integer age;

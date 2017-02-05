@@ -1,4 +1,4 @@
-package com.marlabs.spring;
+package com.vanitha.spring;
 
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Pointcut;
